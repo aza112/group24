@@ -14,6 +14,7 @@ It generates the single canonical e-commerce clickstream dataset used by both
 labs and saves the Bronze/Silver/Gold output to ~/spark-lab-data/shared/ so that
 Lab 3 (lab3_pipeline.py) can load the exact same Silver-layer data instead of
 regenerating it.
+AZ: TESTING NEW COMMIT
 
 Usage:
     python lab2_pipeline.py
